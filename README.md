@@ -17,7 +17,7 @@ Feel free to fork, share, and spread the love ☔♡
 - **No Tracking, Pure Joy**: Zero ads, cookies, or data collection.
 
 ### Live Demo
-
+https://github.com/LHMisme420/Compliment-Rain/blob/main/README.md
 ### Tech
 - Vanilla HTML/CSS/JS
 - 20+ handpicked compliments (add your own!)
